@@ -1,0 +1,15 @@
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.csproj.AssemblyReference.cache
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.AssemblyInfoInputs.cache
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.AssemblyInfo.cs
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.csproj.CoreCompileInputs.cache
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\bin\Debug\net6.0\HW 5.2 C#.exe
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\bin\Debug\net6.0\HW 5.2 C#.deps.json
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\bin\Debug\net6.0\HW 5.2 C#.runtimeconfig.json
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\bin\Debug\net6.0\HW 5.2 C#.dll
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\bin\Debug\net6.0\HW 5.2 C#.pdb
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.dll
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\refint\HW 5.2 C#.dll
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.pdb
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\HW 5.2 C#.genruntimeconfig.cache
+C:\Users\mishe\Desktop\GITICK\HW Seminar C#\HW 5.2 C#\obj\Debug\net6.0\ref\HW 5.2 C#.dll
